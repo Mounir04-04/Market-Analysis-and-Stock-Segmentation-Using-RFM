@@ -1,0 +1,18 @@
+,Value
+Ticker source,https://en.wikipedia.org/wiki/List_of_S%26P_500_companies
+Price source,Yahoo Finance via yfinance
+Retrieval date,2026-11-24
+Study period,2021-01-01 to 2025-01-01 (end exclusive)
+Observation date,2024-12-31
+Weekly returns,"W-FRI, last price in week, adjusted close"
+Weeks of returns,207
+RFM window,60 trading sessions
+High-volume rule,volume > 2 x mean of preceding 20 sessions
+Shares retained,486
+Shares in common set,486
+k Ward risk and return,3
+k Ward RFM,3
+k K-means risk and return,3
+k K-means RFM,3
+K-means random_state,42
+K-means n_init,10

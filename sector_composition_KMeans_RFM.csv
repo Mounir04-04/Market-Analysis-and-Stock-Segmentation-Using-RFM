@@ -1,0 +1,33 @@
+KMeans_RFM,GICS Sector,Share
+1,Communication Services,9
+1,Consumer Discretionary,19
+1,Consumer Staples,16
+1,Energy,9
+1,Financials,41
+1,Health Care,31
+1,Industrials,55
+1,Information Technology,28
+1,Materials,15
+1,Real Estate,27
+1,Utilities,20
+2,Communication Services,2
+2,Consumer Discretionary,7
+2,Consumer Staples,5
+2,Energy,1
+2,Financials,10
+2,Health Care,6
+2,Industrials,4
+2,Information Technology,14
+2,Materials,6
+2,Utilities,9
+3,Communication Services,9
+3,Consumer Discretionary,21
+3,Consumer Staples,11
+3,Energy,10
+3,Financials,23
+3,Health Care,21
+3,Industrials,19
+3,Information Technology,32
+3,Materials,2
+3,Real Estate,3
+3,Utilities,1
